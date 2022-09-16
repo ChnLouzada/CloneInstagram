@@ -1,25 +1,18 @@
-Projeto de desenvolvimento de página inicial do Instagram.
-
-- HTML e CSS -
-
-
-
-
-
+ 
 <h1 align="center">
-    <p>Alura Barbershop</p>
+    <p> Instagram clone</p>
 </h1>
 
 
 <h1 align="center">
-    <img src="/img/instagram-celular.png">
+    <img src="/img/instagram-celular.png" width="200px" hight="50%">
 </h1>
 
 <br>
 <h2 align="center"> HTML5 and CSS3 exercise. <br>
 <br>
 
-<p >Instagram homepage development project. - Advanced training in HTML5 and CSS3 of the Bootcamp Impulso DIO.</p>
+<p >Instagram homepage development project. <br> Advanced training in HTML5 and CSS3 of the Bootcamp Impulso DIO.</p>
 <br>
 </h2>
 <br>
@@ -36,7 +29,7 @@ Projeto de desenvolvimento de página inicial do Instagram.
 </ul>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
- <img alt="Instagram" title="#Instagram" src="/img/insta.png" width="200px" hight="50%">
+ <img alt="Instagram" title="#Instagram" src="/img/insta.png" width="650px" hight="80%"><br>
 
 <br>
 
